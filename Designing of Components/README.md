@@ -70,6 +70,6 @@ Recreating the modern Fluent Design system from scratch.
 
 ## 👤 Project Lead
 ### **Jigar Chavda**
-**Computer Science & Design Student UG under Computer Engineering Departm**
+**Computer Science & Design UG Student under Computer Engineering Department of GCET College at Vallabh Vidyanagar**
 
 </div>
