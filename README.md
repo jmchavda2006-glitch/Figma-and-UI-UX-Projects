@@ -63,6 +63,6 @@ This repository is organized into three core modules, each exploring different a
 
 ## 👤 Connect with Me
 ### **Jigar Chavda**
-**Computer Science & Design Student**
+**Computer Science & Design UG Student under Computer Engineering Department of GCET College at Vallabh Vidyanagar**
 
 </div>
